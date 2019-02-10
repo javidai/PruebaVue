@@ -1,5 +1,5 @@
 new Vue({
     data () {
-        mensaje: "hola mundo"
+        mensaje = "hola mundo"
     },
 });
